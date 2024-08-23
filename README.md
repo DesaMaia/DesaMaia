@@ -1,1 +1,1 @@
-[![Header](./header.png)](https://desamaia.github.io/DesaPortfolio/)
+[![Header](./github-header.png)](https://desamaia.github.io/DesaPortfolio/)
