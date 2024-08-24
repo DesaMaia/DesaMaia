@@ -1,5 +1,5 @@
 <a href="https://desamaia.github.io/DesaPortfolio/">
-<div align="center"> <img src="https://github.com/DesaMaia/DesaMaia/blob/f37bf802b0355cd9bc5cab1e3c9f046823123a40/header-with-photo.png"> </div>
+<div align="center"> <img src="https://github.com/DesaMaia/DesaMaia/blob/3393abc8e8f403e531b53f18a4b2e3b7cae898ee/header-updated.png"> </div>
 </a>
 <p align="center">
   <a href="https://desamaia.github.io/DesaPortfolio/">
