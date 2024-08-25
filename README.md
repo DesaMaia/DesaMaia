@@ -7,4 +7,3 @@
   </a>
 </p>
 <hr />
-<img src="https://github.com/DesaMaia/DesaMaia/blob/b26b921c9b33498eff185fc05a27a02410b10dc5/portfolio-room.gif">
