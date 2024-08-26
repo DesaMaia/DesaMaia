@@ -7,3 +7,8 @@
   </a>
 </p>
 <hr />
+<p style="position: relative;">
+  <img src=">
+  <a style="position: absolute; top: 10%; left: 10%; width: 30%; height: 15%" href="https://www.google.com/webhp?hl=de&tab=Xw"></a>
+  <a style="position: absolute; top: 90%; left: 90%; width: 30%; height: 15%" href="https://www.dafont.com/de/"></a>
+</p>
