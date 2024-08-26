@@ -7,10 +7,3 @@
   </a>
 </p>
 <hr />
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 600 600">
-  <image width="600" height="600" xlink:href="https://github.com/DesaMaia/DesaMaia/blob/8d26d3414e7cb33a9a627ffb65f3ed810feb7d20/download20240805211955.png"></image> <a xlink:href="https://www.google.com/webhp?hl=de&amp;tab=Xw">
-    <rect x="231" y="254" fill="#fff" opacity="0" width="57" height="64"></rect>
-  </a><a xlink:href="https://www.pinterest.de/">
-    <rect x="352" y="518" fill="#fff" opacity="0" width="59" height="63"></rect>
-  </a>
-</svg>
